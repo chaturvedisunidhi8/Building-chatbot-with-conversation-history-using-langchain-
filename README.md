@@ -11,9 +11,9 @@ LangChain Integration — Utilizes LangChain’s framework for chaining prompts,
 
 LLM Backend — Easily switch between models (like Groq, OpenAI, or local models).
 
-🧩 Environment Management — Uses virtual environment and requirements.txt for easy setup.
+Environment Management — Uses virtual environment and requirements.txt for easy setup.
 
-🧰 Tech Stack
+Tech Stack
 
 Python
 
